@@ -135,7 +135,7 @@ nav a:focus {
   
   /* Estilos para el párrafo */
   .parrafo {
-    font-family: Arial, sans-serif; /* Tipo de letra profesional */
+    font-family: happy monkey; /* Tipo de letra profesional */
     font-size: 22px; /* Tamaño del texto */
     text-align: center;
     margin-right: 800px;
@@ -151,6 +151,7 @@ nav a:focus {
     margin-left: 1000px; /* Mover a la derecha */
     margin-top: 180px;
     float: right;
+    position: absolute;
   }
   
   /* Estilos para el botón */
@@ -175,5 +176,315 @@ nav a:focus {
     display: flex;
     align-items: center;
     
+  }
+  .miEducacion{
+    color: #6750A4;
+text-align: center;
+leading-trim: both;
+text-edge: cap;
+font-family:happy monkey;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: 68px; /* 141.667% */
+letter-spacing: 0.1px; 
 
   }
+
+  #imagenCorazon{
+    width: 80.95px;
+height: 75.618px;
+transform: rotate(14.757deg); 
+ margin-top: 700px ;
+ margin-left: 1100px;
+ position: absolute;
+
+  }
+  .contenedor{
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    
+  }
+  .contenedor2{
+    display: flex;
+    justify-content: center;
+    margin-top: 305px;
+  }
+  #imagenCono{
+    width: 84px;
+height: 135px;
+flex-shrink: 0; 
+position: absolute;
+margin-top: 1170px;
+margin-left: 200px;
+  }
+  #imagenDados{
+    width: 142px;
+height: 111px;
+flex-shrink: 0; 
+position: absolute;
+margin-top: 1200px;
+margin-left: 700px;
+  }
+ #imagenzebra{
+  width: 231px;
+  height: 288px;
+  flex-shrink: 0; 
+  position: absolute;
+margin-top: 1000px;
+margin-left: 1200px;
+ }
+ #imagenEl{
+  width: 157px;
+height: 190px;
+flex-shrink: 0; 
+position: absolute;
+margin-top:500px ;
+margin-left: 60px ;
+ }
+ #imagenAr{
+  width: 177px;
+height: 103px;
+transform: rotate(11.104deg);
+flex-shrink: 0; 
+position: absolute;
+margin-top:400px ;
+margin-left:1100px ;
+ }
+ .servicios{
+  color: #6750A4;
+text-align: left;
+leading-trim: both;
+text-edge: cap;
+font-family: Happy Monkey;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: 68px; /* 141.667% */
+letter-spacing: 0.1px; 
+margin-left: 80px;
+ }
+ #imagencora{
+  width: 80.95px;
+height: 75.618px;
+transform: rotate(14.757deg); 
+position: absolute;
+margin-top: 1320px;
+margin-left: 300px;
+ }
+#imagenLeon{
+  width: 213px;
+height: 248px;
+flex-shrink: 0; 
+position: absolute;
+margin-top: 1980px;
+margin-left: 1200px;
+}
+#imagenNina{
+  width: 437px;
+height: 449px;
+flex-shrink: 0; 
+position: absolute;
+margin-top: 1680px;
+margin-left: 100px;
+
+}
+#imagenvacuna{
+  width: 60px;
+height: 60px; 
+position: absolute;
+margin-top:1700px ;
+margin-left: 600px;
+}
+#imagenregla{
+  width: 60px;
+height: 60px; 
+position: absolute;
+margin-top:1860px ;
+margin-left: 600px;
+
+}
+#imagenNinos{
+  width: 60px;
+height: 60px; 
+position: absolute;
+margin-top:2050px ;
+margin-left: 600px;
+}
+#imagenescudo{
+  width: 60px;
+height: 60px; 
+position: absolute;
+margin-top:1700px ;
+margin-left: 1000px;
+}
+#imagenmedico{
+  width: 60px;
+height: 60px; 
+position: absolute;
+margin-top:1900px ;
+margin-left: 1000px;
+}
+.contenedor3{
+  position: relative;
+  display: inline-block;
+  text-align: justify;
+
+
+}
+.P1{
+  position: absolute;
+  left: 49%;
+  top: 31%;
+  color: #0029FF;
+text-align: center;
+leading-trim: both;
+text-edge: cap;
+font-family: Happy Monkey;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 68px; /* 283.333% */ 
+}
+.P2{
+  position: absolute;
+  left: 47%;
+  top: 47%;
+  color: #0029FF;
+text-align: center;
+leading-trim: both;
+text-edge: cap;
+font-family: Happy Monkey;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 68px; /* 283.333% */ 
+}
+.P3{
+  position: absolute;
+  left: 47%;
+  top: 74%;
+  color: #0029FF;
+text-align: center;
+leading-trim: both;
+text-edge: cap;
+font-family: Happy Monkey;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 68px; /* 283.333% */ 
+}
+.P4{
+  position: absolute;
+  left: 76%;
+  top: 31%;
+  color: #0029FF;
+text-align: center;
+leading-trim: both;
+text-edge: cap;
+font-family: Happy Monkey;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 68px; /* 283.333% */ 
+}
+.P5{
+  position: absolute;
+  left: 76%;
+  top: 56%;
+  color: #0029FF;
+text-align: center;
+leading-trim: both;
+text-edge: cap;
+font-family: Happy Monkey;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 68px; /* 283.333% */ 
+}
+.T1{
+  position: absolute;
+  left: 20%;
+  top: 110%;
+  color: #222;
+  text-align: center;
+  leading-trim: both;
+  text-edge: cap;
+  font-family: Happy Monkey;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 68px; /* 283.333% */
+  letter-spacing: 0.1px; 
+}
+.T2{
+  position: absolute;
+  left: 42%;
+  top: 110%;
+  color: #222;
+  text-align: center;
+  leading-trim: both;
+  text-edge: cap;
+  font-family: Happy Monkey;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 68px; /* 283.333% */
+  letter-spacing: 0.1px; 
+}
+.T3{
+  position: absolute;
+  left: 72%;
+  top: 110%;
+  color: #222;
+  text-align: center;
+  leading-trim: both;
+  text-edge: cap;
+  font-family: Happy Monkey;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 68px; /* 283.333% */
+  letter-spacing: 0.1px; 
+}
+.L1{
+  position: absolute;
+  left: 15%;
+  top: 120%;
+  color: #222; leading-trim: both;
+text-edge: cap;
+font-family: Happy Monkey;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.1px; 
+}
+.L2{
+  position: absolute;
+  left: 38%;
+  top: 120%;
+  color: #222; leading-trim: both;
+text-edge: cap;
+font-family: Happy Monkey;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.1px; 
+}
+
+.L3{
+  position: absolute;
+  left: 66%;
+  top: 120%;
+  color: #222; leading-trim: both;
+text-edge: cap;
+font-family: Happy Monkey;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.1px; 
+}
