@@ -263,7 +263,10 @@ font-style: normal;
 font-weight: 400;
 line-height: 68px; /* 141.667% */
 letter-spacing: 0.1px; 
-margin-left: 80px;
+margin-left: 100px;
+margin-top:  5%;
+position: absolute;
+
  }
  #imagencora{
   width: 80.95px;
@@ -278,7 +281,7 @@ margin-left: 300px;
 height: 248px;
 flex-shrink: 0; 
 position: absolute;
-margin-top: 1980px;
+margin-top: 1770px;
 margin-left: 1200px;
 }
 #imagenNina{
@@ -286,7 +289,7 @@ margin-left: 1200px;
 height: 449px;
 flex-shrink: 0; 
 position: absolute;
-margin-top: 1680px;
+margin-top: 1480px;
 margin-left: 100px;
 
 }
@@ -294,37 +297,37 @@ margin-left: 100px;
   width: 60px;
 height: 60px; 
 position: absolute;
-margin-top:1700px ;
-margin-left: 600px;
+margin-top:1530px ;
+margin-left: 680px;
 }
 #imagenregla{
   width: 60px;
 height: 60px; 
 position: absolute;
-margin-top:1860px ;
-margin-left: 600px;
+margin-top:1650px ;
+margin-left: 650px;
 
 }
 #imagenNinos{
   width: 60px;
 height: 60px; 
 position: absolute;
-margin-top:2050px ;
-margin-left: 600px;
+margin-top:1880px ;
+margin-left: 640px;
 }
 #imagenescudo{
   width: 60px;
 height: 60px; 
 position: absolute;
-margin-top:1700px ;
-margin-left: 1000px;
+margin-top:1540px ;
+margin-left: 1100px;
 }
 #imagenmedico{
   width: 60px;
 height: 60px; 
 position: absolute;
-margin-top:1900px ;
-margin-left: 1000px;
+margin-top:1720px ;
+margin-left: 1100px;
 }
 .contenedor3{
   position: relative;
@@ -490,8 +493,8 @@ letter-spacing: 0.1px;
 }
 .N1{
   position: absolute;
-  left: 4%;
-  top: 333%;
+  left: 14%;
+  top: 308%;
   color: #222;
   text-align: center;
   leading-trim: both;
@@ -505,8 +508,8 @@ letter-spacing: 0.1px;
 }
 .N2{
   position: absolute;
-  left: 1%;
-  top: 343%;
+  left: 11%;
+  top: 319%;
   color: #222;
   text-align: center;
   leading-trim: both;
@@ -523,8 +526,8 @@ letter-spacing: 0.1px;
   height: 252px;
   flex-shrink: 0; 
   position:absolute;
-  margin-top: 176%;
-  margin-left: 20%;
+  margin-top: 156%;
+  margin-left: 31%;
 
 }
 .consul{
@@ -544,7 +547,7 @@ letter-spacing: 0.1px;
 height: 75.618px;
 transform: rotate(14.757deg); 
 position: absolute;
-margin-top: 150%;
+margin-top: 137%;
 margin-left: 59%;
 }
 
@@ -567,7 +570,7 @@ margin-left: 90px;
 height: 75.618px;
 transform: rotate(14.757deg); 
 position: absolute;
-margin-top: 192%;
+margin-top: 212%;
 margin-left: 400px;
 }
 #imagenfoto{
@@ -579,7 +582,7 @@ background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 Ellipse 6
 Image · 4,096 x 2,830;
 position: absolute;
-margin-top: 200%;
+margin-top: 220%;
 margin-left: 60%;
 }
 #imagenoso{
@@ -587,7 +590,7 @@ margin-left: 60%;
 height: 233px;
 flex-shrink: 0; 
 position: absolute;
-margin-top: 218% ;
+margin-top: 238% ;
 margin-left: 80%;
 }
 .precios{
@@ -628,7 +631,7 @@ position: absolute;
   width: 32px;
 height: 32px; 
 position: absolute;
-margin-top: 209%;
+margin-top: 229%;
 margin-left: 5%;
 }
 .telefonos{
@@ -646,8 +649,8 @@ position: absolute;
   width: 32px;
   height: 32px; 
   position: absolute;
-  margin-top: 209%;
-  margin-left: 30%;
+  margin-top: 229%;
+  margin-left: 31%;
 }
 .whatsapp{
   color: #222;
@@ -700,13 +703,13 @@ text-align: center;
 height: 75.618px;
 transform: rotate(14.757deg); 
 position: absolute;
-margin-top: 239%;
+margin-top: 259%;
 margin-left: 57%;
 }
 .duda{
   color: #000;
 text-align: center;
-font-family: Poppins;
+font-family: Happy Monkey;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
@@ -718,7 +721,7 @@ text-align: center;
 height: 32px;
 flex-shrink: 0; 
 position: absolute;
-  margin-top: 259%;
+  margin-top: 279%;
   margin-left: 13%;
 }
 .direccion{
@@ -738,7 +741,7 @@ margin-top: 9%;
   width: 32px;
 height: 32px; 
 position: absolute;
-  margin-top: 259%;
+  margin-top: 279%;
   margin-left: 39%;
 }
 .telefono96{
@@ -770,23 +773,22 @@ margin-top: 9%;
 #prg2{
   width: 32px;
 height: 32px; 
-
 position: absolute;
-  margin-top: 259%;
+  margin-top: 279%;
   margin-left: 68%;
 }
 #facebook{
   width: 32px;
 height: 32px; 
 position: absolute;
-  margin-top: 287%;
+  margin-top: 307%;
   margin-left: 36%;
 }
 #instagram{
   width: 32px;
 height: 32px; 
 position: absolute;
-  margin-top: 287%;
+  margin-top: 307%;
   margin-left: 46%;
 }
 
@@ -794,16 +796,57 @@ position: absolute;
   width: 32px;
 height: 32px; 
 position: absolute;
-  margin-top: 287%;
+  margin-top: 307%;
   margin-left: 56%;
 }
 #instagram2{
   width: 32px;
   height: 32px; 
   position: absolute;
-    margin-top: 287%;
+    margin-top: 307%;
     margin-left: 66%;
 }
 .pie{
   text-align: center;
+  
+}
+.svgconsul{
+  margin-left:10%;
+ 
+  
+}
+#{
+  width: 1440px;
+height: 900px;
+flex-shrink: 0; 
+position: absolute;
+margin-top: 145%;
+margin-left: 4%;
+}
+#H1H3{
+  width: 637px;
+height: 410px; 
+position: absolute;
+margin-top: 175%;
+margin-left: 50%;
+}
+#H1H2{
+  width: 637px;
+height: 410px; 
+position: absolute;
+margin-top: 175%;
+margin-left: 6%;
+}
+#H1H1{
+  width: 637px;
+height: 410px; 
+position: absolute;
+margin-top: 145%;
+margin-left: 50%;
+}
+.pieparrafo{
+text-align: center;
+position: absolute;
+margin-left: 42%;
+margin-top: 16%;
 }
